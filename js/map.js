@@ -11,5 +11,5 @@ var marker = L.marker([39.74257870459885, -104.9340878016765]).addTo(map)
 var marker = L.marker([48.87169887112109, 2.3456590673877202]).addTo(map)
 		.bindPopup('<b>Paris, FR</b> <br> June Trip with Mom, Cassie, and Sam')
 		
-var marker =L.marker([21.031545954291136, 105.84583832159872]).addTo(map)
+var marker = L.marker([21.031545954291136, 105.84583832159872]).addTo(map)
 		.bindPopup('<b>Vietnam, 1st AirBnB</b> <br> First Place We Stayed')
